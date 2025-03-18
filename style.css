@@ -26,3 +26,11 @@ button:hover{
 button:disabled{
     border-color: black;
 }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: wheat;
+    background-color: rgb(36, 36, 36);
+    text-align: center;
+    border-radius: 15px;
+}
